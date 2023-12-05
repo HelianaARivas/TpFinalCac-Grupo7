@@ -9,6 +9,9 @@ usando la especificación JDBC.
 
 El trabajo práctico consistía en replicar el siguiente modelo de página y agregarle una persistencia de datos a una base de datos MySQL
 usando java como back-end y JDBC como especificación.
+Alumnos:
+Sebastián Castro Perez DNI 28300960
+Heliana Rivas DNI 38812483
 
 <br>
 
