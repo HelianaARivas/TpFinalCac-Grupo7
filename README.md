@@ -15,3 +15,7 @@ usando java como back-end y JDBC como especificación.
 ![final_front_2021](https://user-images.githubusercontent.com/116129705/232880443-c69f2b41-4e6b-4f1c-be48-8afcf1ecd015.jpg)
 
 <hr>
+
+Alumnos:
+Sebastián Castro Perez DNI 28300960
+Heliana Rivas DNI 38812483
