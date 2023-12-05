@@ -11,7 +11,7 @@ El trabajo práctico consistía en replicar el siguiente modelo de página y agr
 usando java como back-end y JDBC como especificación.
 Alumnos:
 Sebastián Castro Perez DNI 28300960;
-Heliana Rivas DNI 38812483;
+Heliana Rivas DNI 38812483; Martin Sebastian Romero DNI 41454943
 
 <br>
 
